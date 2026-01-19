@@ -8,7 +8,7 @@ The system translates hand movements into keyboard actions, allowing seamless sl
 This project uses computer vision techniques to detect hand landmarks in real time and recognize predefined gestures.  
 These gestures are mapped to slide navigation commands, providing an intuitive and contactless way to control presentations.
 
-Compatible with **PowerPoint, WPS Presentation, and other slideshow tools**.
+The application is compatible with **PowerPoint, WPS Presentation, and other slideshow tools**.
 
 ## Gesture Controls
 
