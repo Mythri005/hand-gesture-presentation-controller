@@ -1,6 +1,6 @@
 # Hand Gesture Based Presentation Controller
 
-A real-time computer vision application that enables **touchless control of presentation slides** using hand gestures captured through a webcam.  
+A real-time computer vision application that enables touchless control of presentation slides using hand gestures captured through a webcam.  
 The system translates hand movements into keyboard actions, allowing seamless slide navigation without physical interaction.
 
 ## Project Overview
@@ -19,18 +19,20 @@ The application is compatible with **PowerPoint, WPS Presentation, and other sli
 | Fist | Pause / Resume |
 
 ## Features
-- Real-time hand tracking via webcam
-- Swipe gestures for slide navigation
-- Fist gesture to pause/resume slides
-- Fast and smooth gesture response
-- Works across multiple presentation software
+
+- Real-time hand tracking via webcam  
+- Swipe gestures for slide navigation  
+- Fist gesture to pause/resume slides  
+- Fast and smooth gesture response  
+- Works across multiple presentation software  
 
 ## Tech Stack
+
 Python, OpenCV, MediaPipe, PyAutoGUI, NumPy
 
 ## Use Cases
 
-- Smart classrooms 
-- Touchless presentations
-- Corporate demos
-- Human–Computer Interaction (HCI) systems
+- Smart classrooms  
+- Touchless presentations  
+- Corporate demos  
+- Human–Computer Interaction (HCI) systems  
